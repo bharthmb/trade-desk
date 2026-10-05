@@ -1,1 +1,40 @@
-{"sent":{},"open":[]}
+{
+ "sent": {
+  "ethQuiet:1791072000.0": "2026-10-05 23:54",
+  "surge:XRP:1791072000.0": "2026-10-05 23:54",
+  "surge:ADA:1791072000.0": "2026-10-05 23:54"
+ },
+ "open": [
+  {
+   "k": "ethQuiet",
+   "name": "Ethereum quiet",
+   "sym": "ETH",
+   "entry": 2726.31,
+   "stop": 2453.679,
+   "opened": 1791224657.448891,
+   "hold": 5,
+   "kind": "time"
+  },
+  {
+   "k": "surge:XRP",
+   "name": "XRP surge",
+   "sym": "XRP",
+   "entry": 1.5199,
+   "stop": 1.4135069999999998,
+   "opened": 1791224657.448891,
+   "hold": 5,
+   "kind": "time"
+  },
+  {
+   "k": "surge:ADA",
+   "name": "ADA surge",
+   "sym": "ADA",
+   "entry": 0.2599,
+   "stop": 0.241707,
+   "opened": 1791224657.448891,
+   "hold": 5,
+   "kind": "time"
+  }
+ ],
+ "last_run": "2026-10-05"
+}
