@@ -12,16 +12,6 @@
  },
  "open": [
   {
-   "k": "ethQuiet",
-   "name": "Ethereum quiet",
-   "sym": "ETH",
-   "entry": 2726.31,
-   "stop": 2453.679,
-   "opened": 1791224657.448891,
-   "hold": 5,
-   "kind": "time"
-  },
-  {
    "k": "btcMom",
    "name": "Bitcoin surge",
    "sym": "BTC",
@@ -32,5 +22,5 @@
    "kind": "time"
   }
  ],
- "last_run": "2026-10-10"
+ "last_run": "2026-10-11"
 }
