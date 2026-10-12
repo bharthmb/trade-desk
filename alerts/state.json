@@ -23,16 +23,6 @@
    "opened": 1791548642.599567,
    "hold": 5,
    "kind": "time"
-  },
-  {
-   "k": "btcTrend",
-   "name": "Bitcoin trend",
-   "sym": "BTC",
-   "entry": 83958.14,
-   "stop": 79760.233,
-   "opened": 1791735509.887859,
-   "hold": 999,
-   "kind": "trend"
   }
  ],
  "last_run": "2026-10-12"
