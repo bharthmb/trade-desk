@@ -17,17 +17,6 @@
   "btcTrend:buy:1791892800.0": "2026-10-13 21:52",
   "btcTrend:buy:1791936000.0": "2026-10-14 10:02"
  },
- "open": [
-  {
-   "k": "btcTrend",
-   "name": "Bitcoin trend",
-   "sym": "BTC",
-   "entry": 83739.56,
-   "stop": 79552.582,
-   "opened": 1791952359.633061,
-   "hold": 999,
-   "kind": "trend"
-  }
- ],
+ "open": [],
  "last_run": "2026-10-14"
 }
