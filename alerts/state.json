@@ -16,8 +16,31 @@
   "btcTrend:buy:1791864000.0": "2026-10-13 13:53",
   "btcTrend:buy:1791892800.0": "2026-10-13 21:52",
   "btcTrend:buy:1791936000.0": "2026-10-14 10:02",
-  "btcTrend:buy:1792382400.0": "2026-10-19 14:09"
+  "btcTrend:buy:1792382400.0": "2026-10-19 14:09",
+  "btcTrend:buy:1792526400.0": "2026-10-21 06:08",
+  "btcMom:1792526400.0": "2026-10-21 06:08"
  },
- "open": [],
+ "open": [
+  {
+   "k": "btcTrend",
+   "name": "Bitcoin trend",
+   "sym": "BTC",
+   "entry": 83053.34,
+   "stop": 78900.673,
+   "opened": 1792543111.284745,
+   "hold": 999,
+   "kind": "trend"
+  },
+  {
+   "k": "btcMom",
+   "name": "Bitcoin surge",
+   "sym": "BTC",
+   "entry": 83053.34,
+   "stop": 74748.006,
+   "opened": 1792543111.284745,
+   "hold": 5,
+   "kind": "time"
+  }
+ ],
  "last_run": "2026-10-21"
 }
