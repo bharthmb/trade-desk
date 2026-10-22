@@ -24,16 +24,6 @@
  },
  "open": [
   {
-   "k": "btcTrend",
-   "name": "Bitcoin trend",
-   "sym": "BTC",
-   "entry": 83053.34,
-   "stop": 78900.673,
-   "opened": 1792543111.284745,
-   "hold": 999,
-   "kind": "trend"
-  },
-  {
    "k": "btcMom",
    "name": "Bitcoin surge",
    "sym": "BTC",
